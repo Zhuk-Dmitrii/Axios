@@ -1,2 +1,2 @@
 # Axios
-file:///D:/TeachMeSkills/Axios/index.html
+https://zhuk-dmitrii.github.io/Axios/index.html
